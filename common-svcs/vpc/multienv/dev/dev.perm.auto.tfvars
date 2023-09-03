@@ -1,0 +1,11 @@
+# common variables
+account_id       = "12345678"
+environment      = "dev"
+region           = "us-west-2"
+owner            = "finance-team"
+cost_center      = "finance-dept"
+business_unit    = "finance-business-unit"
+# vpc variables
+vpc_cidr         = "11.0.0.0/16"
+public_subnet_cidr = "11.10.0.0/24"
+private_subnet_cidr = "11.20.0.0/24"
